@@ -1,6 +1,6 @@
 # Write your solution here
-if Time.now == even 
+if true
   puts "Even!"
-else 
+else
   puts "Odd!"
-end 
+end
