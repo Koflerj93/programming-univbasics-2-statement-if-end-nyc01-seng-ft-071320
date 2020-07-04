@@ -1,5 +1,5 @@
 # Write your solution here
-if current_second == even 
+if Time.now == even 
   puts "Even!"
 else 
   puts "Odd!"
